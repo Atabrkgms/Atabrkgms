@@ -1,8 +1,6 @@
 - Hi, I’m Ataberk Gümüş.
-- I’m interested İOS development .
-- I’m currently learning Swift , JAVA and Python.
-- You can reach me on :
+- I’m interested iOS development.
+- I’m currently learning Swift and Python.
 - Gmail : ataberkgms@gmail.com 
-- Twitter : @atabrkgms
 
 
